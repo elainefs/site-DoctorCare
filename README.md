@@ -1,2 +1,6 @@
-# site-DoctorCare
-Site para divulgação de serviços de assistência média desenvolvido durante o evento NLW Return oferecido pela Rocketseat
+<h1 align="center">DoctorCare</h1>
+Website for publicizing medical assistance services developed during the NLW Return event offered by Rocketseat.<br>
+🚧 Website under constrution 🚧
+
+
+
